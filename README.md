@@ -79,6 +79,3 @@ exit_palomino_stateoffice.ymap: 2425.11255, -180.478561, 92.5  ---   2510.49927,
 
 ```
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
